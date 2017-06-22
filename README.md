@@ -4,10 +4,10 @@ platforms: java
 author: jianghaolu
 ---
 
-#Getting Started with Graphrbac - Manage Service Principal Credentials - in Java #
+## Getting Started with Graphrbac - Manage Service Principal Credentials - in Java ##
 
 
-  Azure service principal sample for managing its credentials.
+Azure service principal sample for managing its credentials.
   - Create an application with 2 passwords and 1 certificate credentials
   - Create an associated service principal with contributor role
   - Verify all password credentials and certificate credentials are valid
@@ -31,7 +31,7 @@ Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an aut
 
 ## More information ##
 
-[http://azure.com/java] (http://azure.com/java)
+[http://azure.com/java](http://azure.com/java)
 
 If you don't have a Microsoft Azure subscription you can get a FREE trial account [here](http://go.microsoft.com/fwlink/?LinkId=330212)
 
