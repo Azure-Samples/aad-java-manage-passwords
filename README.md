@@ -1,7 +1,11 @@
 ---
-services: Graphrbac
-platforms: java
-author: yaohaizh
+page_type: sample
+languages:
+- java
+products:
+- azure
+description: "Azure service principal sample for managing its credentials."
+urlFragment: aad-java-manage-passwords
 ---
 
 ## Getting Started with Graphrbac - Manage Service Principal Credentials - in Java ##
