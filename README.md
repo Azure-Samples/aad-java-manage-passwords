@@ -5,10 +5,10 @@ languages:
 products:
 - azure
 description: "Azure service principal sample for managing its credentials."
-urlFragment: aad-java-manage-passwords
+urlFragment: getting-started-graphrbac
 ---
 
-## Getting Started with Graphrbac - Manage Service Principal Credentials - in Java ##
+# Getting Started with Graphrbac - Manage Service Principal Credentials - in Java
 
 
 Azure service principal sample for managing its credentials.
